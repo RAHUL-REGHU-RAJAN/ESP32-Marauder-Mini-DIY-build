@@ -65,3 +65,5 @@ This repository documents only the hardware implementation, understanding wirele
 Email: rahul.rajanempire@gmail.com
 
 Portfolio: <a href="https://rahulhub.vercel.app/">rahulhub.vercel.app</a>
+
+Linkedin: <a href="https://www.linkedin.com/in/rahul-reghu-rajan/">RAHUL REGHU RAJAN</a>
