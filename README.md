@@ -17,6 +17,11 @@ This repository focuses on the understanding wireless network security, hardware
 * **5-Way Switch Module**: 	Menu navigation
 * **Lithium Battery + Boost Converter**: 	Portable power system
 
+# Hardware Architecture
+*
+*
+*
+
 ## Firmware
 The device runs the ESP32 Marauder Mini firmware, an open-source wireless security research platform.
 
@@ -29,7 +34,7 @@ https://github.com/justcallmekoko/ESP32Marauder
 This project does not modify or redistribute the firmware, and only documents the hardware build and integration process.
 
 # Documentation
-Full technical report available here: [DIY MARAUDER MINI - RAHUL REGHU RAJAN ](https://github.com/RAHUL-REGHU-RAJAN/ESP32-Marauder-Mini-DIY-build/blob/Documents/DIY MARAUDER MINI - RAHUL REGHU RAJAN.pdf)
+Full technical report available here: [DIY MARAUDER MINI - RAHUL REGHU RAJAN ](https://github.com/RAHUL-REGHU-RAJAN/ESP32-Marauder-Mini-DIY-build/blob/main/Documents/DIY%20MARAUDER%20MINI%20-%20RAHUL%20REGHU%20RAJAN.pdf)
 
 The report includes:
 * System architecture
