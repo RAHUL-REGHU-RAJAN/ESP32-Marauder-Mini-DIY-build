@@ -19,7 +19,7 @@ This repository focuses on the understanding wireless network security, hardware
 
 # Hardware Architecture
 * **[GPIO Connection](Assets/gpio_pins.md)**: ESp32 GPIO pins and connections.
-* **[Orginial Schematics](Assets/gpio_pins.md)** by [justcallmekeko](https://github.com/justcallmekoko): The Original Schematics of ESP32 Marauder.
+* **[Orginial Schematics](Assets/justcallmekeko_schematics.png)** by [justcallmekeko](https://github.com/justcallmekoko): The Original Schematics of ESP32 Marauder.
 * **[Wiring Diagram](Assets/wiring.jpg)**: Wiring and Battery Connection Diagram.
 
 ## Firmware
@@ -42,3 +42,26 @@ The report includes:
 * Testing methodology
 * Challenges encountered
 * Learning outcomes
+
+# Ethical Use Notice
+
+This device is intended strictly for:
+* Cybersecurity education
+* Wireless security research
+* Authorized penetration testing environments
+
+Unauthorized use against networks or devices without permission is strongly discouraged.
+
+# Attribution
+This project uses the ESP32 Marauder firmware created by [JustCallMeKeko.](https://github.com/justcallmekoko)
+
+Full credit for the firmware, features, and original project concept belongs to the original developer and contributors.
+
+This repository documents only the hardware implementation, understanding wireless network security, offensive and defensive learning process.
+
+# Author
+**Rahul Reghu Rajan** - Penetration Testing | Linux & Tools | VAPT | Red Team Concepts.
+
+Email: rahul.rajanempire@gmail.com
+
+Portfolio: <a href="https://www.rahulhub.vercel.app">rahulhub.vercel.app</a>
