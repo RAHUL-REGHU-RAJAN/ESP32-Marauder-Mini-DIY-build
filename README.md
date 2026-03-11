@@ -18,9 +18,9 @@ This repository focuses on the understanding wireless network security, hardware
 * **Lithium Battery + Boost Converter**: 	Portable power system
 
 # Hardware Architecture
-*
-*
-*
+* **[GPIO Connection](Assets/gpio_pins.md)**: ESp32 GPIO pins and connections.
+* **[Orginial Schematics](Assets/gpio_pins.md)** by [justcallmekeko](https://github.com/justcallmekoko): The Original Schematics of ESP32 Marauder.
+* **[Wiring Diagram](Assets/wiring.jpg)**: Wiring and Battery Connection Diagram.
 
 ## Firmware
 The device runs the ESP32 Marauder Mini firmware, an open-source wireless security research platform.
