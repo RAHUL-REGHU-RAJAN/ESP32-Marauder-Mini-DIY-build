@@ -1,5 +1,5 @@
 # ESP32-Marauder-Mini-DIY-build
-<p align="center"><img alt="Marauder logo" src="https://github.com/RAHUL-REGHU-RAJAN/ESP32-Marauder-Mini-DIY-build/master/pictures/marauder_logo.png?raw=true" width="300"></p>
+<p align="center"><img alt="Marauder logo" src="https://github.com/RAHUL-REGHU-RAJAN/ESP32-Marauder-Mini-DIY-build/master/Assets/marauder_logo.png?raw=true" width="300"></p>
 # Overview
 This project documents the design, hardware integration, and testing of a DIY ESP32 Marauder Mini, a compact portable device used for wireless security analysis and educational cybersecurity research.
 
